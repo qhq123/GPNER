@@ -1,0 +1,7 @@
+numpy
+pillow
+torch=1.10.1
+tensorboard
+tqdm
+transformers
+seqeval
